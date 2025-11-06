@@ -21,6 +21,7 @@ brew install --cask discord
 brew install --cask whatsapp
 brew install --cask messenger
 brew install --cask dropbox
+brew install --cask ghostty
 
 # Ryd op
 brew cleanup
