@@ -13,6 +13,8 @@ brew install ffmpeg
 brew install --cask imageoptim
 brew install --cask appcleaner
 brew install --cask zed
+brew install --cask dockfix
+brew install --cask raycast
 brew install --cask firefox
 brew install --cask vlc
 brew install --cask spotify
