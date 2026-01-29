@@ -22,6 +22,7 @@ brew install --cask sonos
 brew install --cask discord
 brew install --cask whatsapp
 brew install --cask dropbox
+brew install --cask blender
 
 # Ryd op
 brew cleanup
